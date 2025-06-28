@@ -2,8 +2,6 @@
 
 ## 🔨 Todo
 
-- [ ] **T1**：建立 Git repo + 架構 README
-- [ ] **T2**：建立 Go module + 基礎專案結構
 - [ ] **T3**：安裝並配置 RabbitMQ、Redis、PostgreSQL（docker-compose）
 - [ ] **T4**：設計 .env 檔與設定載入（dotenv）
 - [ ] **T5**：撰寫 HealthCheck API
@@ -38,6 +36,9 @@
 ---
 
 ## ✅ Done
+
+- [x] **T1**：建立 Git repo + 架構 README
+- [x] **T2**：建立 Go module + 基礎專案結構
 
 ---
 
