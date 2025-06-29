@@ -2,8 +2,6 @@
 
 ## 🔨 Todo
 
-- [ ] **T5**：撰寫 HealthCheck API
-
 - [ ] **T6**：設計商品資料表（PostgreSQL）
 - [ ] **T7**：建立商品列表 API
 - [ ] **T8**：加入 Redis 商品快取機制
@@ -39,6 +37,7 @@
 - [x] **T2**：建立 Go module + 基礎專案結構
 - [x] **T3**：安裝並配置 RabbitMQ、Redis、PostgreSQL（docker-compose）
 - [x] **T4**：設計 .env 檔與設定載入（dotenv）
+- [x] **T5**：撰寫 HealthCheck API
 
 ---
 
