@@ -38,6 +38,9 @@ mq-ui:
 redis-ui:
 	@echo "🌐 Opening Redis Insight at http://localhost:5540"
 
+postgreSQL-ui:
+	@echo "🌐 Opening pgAdmin at http://localhost:8081"
+
 clean:
 	@echo "🧹 Stopping and removing volumes..."
 	$(DC) down -v
