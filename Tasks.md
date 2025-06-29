@@ -4,7 +4,6 @@
 
 ### 🛍 商品模組
 
-- [ ] **T6**：設計商品資料表（PostgreSQL）
 - [ ] **T7**：建立商品列表 API（支援分頁查詢）
 - [ ] **T8**：加入 Redis 商品快取機制（read-through cache）
 - [ ] **T9**：加入商品查詢單元測試
@@ -62,6 +61,7 @@
 - [x] **T3**：安裝並配置 RabbitMQ、Redis、PostgreSQL（docker-compose）
 - [x] **T4**：設計 .env 檔與設定載入（dotenv）
 - [x] **T5**：撰寫 HealthCheck API（含 Redis / DB / MQ 檢查）
+- [x] **T6**：設計商品資料表（PostgreSQL）
 
 ---
 
