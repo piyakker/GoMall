@@ -2,8 +2,6 @@
 
 ## 🔨 Todo
 
-- [ ] **T3**：安裝並配置 RabbitMQ、Redis、PostgreSQL（docker-compose）
-- [ ] **T4**：設計 .env 檔與設定載入（dotenv）
 - [ ] **T5**：撰寫 HealthCheck API
 
 - [ ] **T6**：設計商品資料表（PostgreSQL）
@@ -39,6 +37,8 @@
 
 - [x] **T1**：建立 Git repo + 架構 README
 - [x] **T2**：建立 Go module + 基礎專案結構
+- [x] **T3**：安裝並配置 RabbitMQ、Redis、PostgreSQL（docker-compose）
+- [x] **T4**：設計 .env 檔與設定載入（dotenv）
 
 ---
 
@@ -47,3 +47,4 @@
 - [ ] **B1**：商品快取加上自動失效策略（TTL + 回源）
 - [ ] **B2**：訂單服務改為事件導向架構（Worker 解耦）
 - [ ] **B3**：加入 Prometheus + Grafana 監控
+- [ ] **B4**：health check 檢查連線狀態
